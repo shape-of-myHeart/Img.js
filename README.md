@@ -1,4 +1,5 @@
 # What The Fuck. Img.js
+<img src='http://i.imgur.com/IbJpWIG.png'>
 <pre>
 The canvas function of html5 is widely used in games and data visualization,
 It is also necessary to image fluid data.
@@ -11,7 +12,6 @@ I think this is a problem that can be handled by the "front end".
 In conclusion, img.js makes this task easier.
 The capacity is only "2kb".
 </pre>
-
 So let's look at the source.
 
 ```html
