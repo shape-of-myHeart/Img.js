@@ -44,7 +44,10 @@ This action takes the img tag into javascript,
 You can call the setCommand function.
 </pre>
 
-
+```html
+<canvas id='cvs'></canvas>
+<img id='image' cvs-src='cvs::(0,0)' />
+```
 ```javascript
 ...ctx.release();
 
