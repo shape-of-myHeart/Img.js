@@ -10,7 +10,7 @@ If you are not going to support a very minor version of browsers by moving to ht
 I think this is a problem that can be handled by the "front end".
 
 In conclusion, img.js makes this task easier.
-The capacity is only "2kb".
+The capacity is only "1.64kb".
 </pre>
 So let's look at the source.
 
